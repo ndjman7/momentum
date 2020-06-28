@@ -1,0 +1,16 @@
+.js-clock {
+    font-size: 18px;
+    font-weight: bold;
+} 
+
+.display-none {
+    display: none;
+}
+
+body {
+    color: white;
+}
+
+ul {
+    list-style: none;
+}
